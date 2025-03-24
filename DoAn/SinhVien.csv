@@ -1,0 +1,101 @@
+Ten_sinh_vien	Ma_so	Tuoi	Gioi_tinh	GPA	So_tin_chi_truot	So_buoi_nghi	Chuyen_nganh	Ton_giao	Nien_khoa	Noi_song	Quoc_tich	Dieu_kien_tot_nghiep
+Sinh vien 1	SV001	21	Nu	1.6	1	1	Ke toan	Phat giao	2021	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 2	SV002	22	Nam	1.7	2	2	Quan tri kinh doanh	Thien chua giao	2022	Da Nang	Viet Nam	Khong Dat
+Sinh vien 3	SV003	23	Nu	1.8	3	3	Cong nghe thong tin	Thien chua giao	2023	TP.HCM	Viet Nam	Khong Dat
+Sinh vien 4	SV004	24	Nam	1.9	4	4	Ke toan	Khong	2020	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 5	SV005	20	Nu	2.0	5	5	Quan tri kinh doanh	Phat giao	2021	Da Nang	Campuchia	Dat
+Sinh vien 6	SV006	21	Nam	2.1	6	6	Cong nghe thong tin	Thien chua giao	2022	TP.HCM	Viet Nam	Dat
+Sinh vien 7	SV007	22	Nu	2.2	7	7	Ke toan	Thien chua giao	2023	Ha Noi	Viet Nam	Dat
+Sinh vien 8	SV008	23	Nam	2.3	8	8	Quan tri kinh doanh	Khong	2020	Da Nang	Viet Nam	Dat
+Sinh vien 9	SV009	24	Nu	2.4	9	9	Cong nghe thong tin	Phat giao	2021	TP.HCM	Viet Nam	Dat
+Sinh vien 10	SV010	20	Nam	2.5	10	10	Ke toan	Thien chua giao	2022	Ha Noi	Campuchia	Dat
+Sinh vien 11	SV011	21	Nu	2.6	11	11	Quan tri kinh doanh	Thien chua giao	2023	Da Nang	Viet Nam	Khong Dat
+Sinh vien 12	SV012	22	Nam	2.7	0	12	Cong nghe thong tin	Khong	2020	TP.HCM	Viet Nam	Dat
+Sinh vien 13	SV013	23	Nu	2.8	1	13	Ke toan	Phat giao	2021	Ha Noi	Viet Nam	Dat
+Sinh vien 14	SV014	24	Nam	2.9	2	14	Quan tri kinh doanh	Thien chua giao	2022	Da Nang	Viet Nam	Dat
+Sinh vien 15	SV015	20	Nu	3.0	3	15	Cong nghe thong tin	Thien chua giao	2023	TP.HCM	Campuchia	Dat
+Sinh vien 16	SV016	21	Nam	3.1	4	16	Ke toan	Khong	2020	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 17	SV017	22	Nu	3.2	5	17	Quan tri kinh doanh	Phat giao	2021	Da Nang	Viet Nam	Khong Dat
+Sinh vien 18	SV018	23	Nam	3.3	6	18	Cong nghe thong tin	Thien chua giao	2022	TP.HCM	Viet Nam	Khong Dat
+Sinh vien 19	SV019	24	Nu	3.4	7	19	Ke toan	Thien chua giao	2023	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 20	SV020	20	Nam	3.5	8	0	Quan tri kinh doanh	Khong	2020	Da Nang	Campuchia	Dat
+Sinh vien 21	SV021	21	Nu	3.6	9	1	Cong nghe thong tin	Phat giao	2021	TP.HCM	Viet Nam	Dat
+Sinh vien 22	SV022	22	Nam	3.7	10	2	Ke toan	Thien chua giao	2022	Ha Noi	Viet Nam	Dat
+Sinh vien 23	SV023	23	Nu	3.8	11	3	Quan tri kinh doanh	Thien chua giao	2023	Da Nang	Viet Nam	Khong Dat
+Sinh vien 24	SV024	24	Nam	3.9	0	4	Cong nghe thong tin	Khong	2020	TP.HCM	Viet Nam	Dat
+Sinh vien 25	SV025	20	Nu	4.0	1	5	Ke toan	Phat giao	2021	Ha Noi	Campuchia	Dat
+Sinh vien 26	SV026	21	Nam	4.1	2	6	Quan tri kinh doanh	Thien chua giao	2022	Da Nang	Viet Nam	Dat
+Sinh vien 27	SV027	22	Nu	4.2	3	7	Cong nghe thong tin	Thien chua giao	2023	TP.HCM	Viet Nam	Dat
+Sinh vien 28	SV028	23	Nam	4.3	4	8	Ke toan	Khong	2020	Ha Noi	Viet Nam	Dat
+Sinh vien 29	SV029	24	Nu	4.4	5	9	Quan tri kinh doanh	Phat giao	2021	Da Nang	Viet Nam	Dat
+Sinh vien 30	SV030	20	Nam	1.5	6	10	Cong nghe thong tin	Thien chua giao	2022	TP.HCM	Campuchia	Khong Dat
+Sinh vien 31	SV031	21	Nu	1.6	7	11	Ke toan	Thien chua giao	2023	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 32	SV032	22	Nam	1.7	8	12	Quan tri kinh doanh	Khong	2020	Da Nang	Viet Nam	Khong Dat
+Sinh vien 33	SV033	23	Nu	1.8	9	13	Cong nghe thong tin	Phat giao	2021	TP.HCM	Viet Nam	Khong Dat
+Sinh vien 34	SV034	24	Nam	1.9	10	14	Ke toan	Thien chua giao	2022	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 35	SV035	20	Nu	2.0	11	15	Quan tri kinh doanh	Thien chua giao	2023	Da Nang	Campuchia	Khong Dat
+Sinh vien 36	SV036	21	Nam	2.1	0	16	Cong nghe thong tin	Khong	2020	TP.HCM	Viet Nam	Khong Dat
+Sinh vien 37	SV037	22	Nu	2.2	1	17	Ke toan	Phat giao	2021	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 38	SV038	23	Nam	2.3	2	18	Quan tri kinh doanh	Thien chua giao	2022	Da Nang	Viet Nam	Khong Dat
+Sinh vien 39	SV039	24	Nu	2.4	3	19	Cong nghe thong tin	Thien chua giao	2023	TP.HCM	Viet Nam	Khong Dat
+Sinh vien 40	SV040	20	Nam	2.5	4	0	Ke toan	Khong	2020	Ha Noi	Campuchia	Dat
+Sinh vien 41	SV041	21	Nu	2.6	5	1	Quan tri kinh doanh	Phat giao	2021	Da Nang	Viet Nam	Dat
+Sinh vien 42	SV042	22	Nam	2.7	6	2	Cong nghe thong tin	Thien chua giao	2022	TP.HCM	Viet Nam	Dat
+Sinh vien 43	SV043	23	Nu	2.8	7	3	Ke toan	Thien chua giao	2023	Ha Noi	Viet Nam	Dat
+Sinh vien 44	SV044	24	Nam	2.9	8	4	Quan tri kinh doanh	Khong	2020	Da Nang	Viet Nam	Dat
+Sinh vien 45	SV045	20	Nu	3.0	9	5	Cong nghe thong tin	Phat giao	2021	TP.HCM	Campuchia	Dat
+Sinh vien 46	SV046	21	Nam	3.1	10	6	Ke toan	Thien chua giao	2022	Ha Noi	Viet Nam	Dat
+Sinh vien 47	SV047	22	Nu	3.2	11	7	Quan tri kinh doanh	Thien chua giao	2023	Da Nang	Viet Nam	Khong Dat
+Sinh vien 48	SV048	23	Nam	3.3	0	8	Cong nghe thong tin	Khong	2020	TP.HCM	Viet Nam	Dat
+Sinh vien 49	SV049	24	Nu	3.4	1	9	Ke toan	Phat giao	2021	Ha Noi	Viet Nam	Dat
+Sinh vien 50	SV050	20	Nam	3.5	2	10	Quan tri kinh doanh	Thien chua giao	2022	Da Nang	Campuchia	Dat
+Sinh vien 51	SV051	21	Nu	3.6	3	11	Cong nghe thong tin	Thien chua giao	2023	TP.HCM	Viet Nam	Dat
+Sinh vien 52	SV052	22	Nam	3.7	4	12	Ke toan	Khong	2020	Ha Noi	Viet Nam	Dat
+Sinh vien 53	SV053	23	Nu	3.8	5	13	Quan tri kinh doanh	Phat giao	2021	Da Nang	Viet Nam	Dat
+Sinh vien 54	SV054	24	Nam	3.9	6	14	Cong nghe thong tin	Thien chua giao	2022	TP.HCM	Viet Nam	Dat
+Sinh vien 55	SV055	20	Nu	4.0	7	15	Ke toan	Thien chua giao	2023	Ha Noi	Campuchia	Dat
+Sinh vien 56	SV056	21	Nam	4.1	8	16	Quan tri kinh doanh	Khong	2020	Da Nang	Viet Nam	Khong Dat
+Sinh vien 57	SV057	22	Nu	4.2	9	17	Cong nghe thong tin	Phat giao	2021	TP.HCM	Viet Nam	Khong Dat
+Sinh vien 58	SV058	23	Nam	4.3	10	18	Ke toan	Thien chua giao	2022	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 59	SV059	24	Nu	4.4	11	19	Quan tri kinh doanh	Thien chua giao	2023	Da Nang	Viet Nam	Khong Dat
+Sinh vien 60	SV060	20	Nam	1.5	0	0	Cong nghe thong tin	Khong	2020	TP.HCM	Campuchia	Khong Dat
+Sinh vien 61	SV061	21	Nu	1.6	1	1	Ke toan	Phat giao	2021	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 62	SV062	22	Nam	1.7	2	2	Quan tri kinh doanh	Thien chua giao	2022	Da Nang	Viet Nam	Khong Dat
+Sinh vien 63	SV063	23	Nu	1.8	3	3	Cong nghe thong tin	Thien chua giao	2023	TP.HCM	Viet Nam	Khong Dat
+Sinh vien 64	SV064	24	Nam	1.9	4	4	Ke toan	Khong	2020	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 65	SV065	20	Nu	2.0	5	5	Quan tri kinh doanh	Phat giao	2021	Da Nang	Campuchia	Dat
+Sinh vien 66	SV066	21	Nam	2.1	6	6	Cong nghe thong tin	Thien chua giao	2022	TP.HCM	Viet Nam	Dat
+Sinh vien 67	SV067	22	Nu	2.2	7	7	Ke toan	Thien chua giao	2023	Ha Noi	Viet Nam	Dat
+Sinh vien 68	SV068	23	Nam	2.3	8	8	Quan tri kinh doanh	Khong	2020	Da Nang	Viet Nam	Dat
+Sinh vien 69	SV069	24	Nu	2.4	9	9	Cong nghe thong tin	Phat giao	2021	TP.HCM	Viet Nam	Dat
+Sinh vien 70	SV070	20	Nam	2.5	10	10	Ke toan	Thien chua giao	2022	Ha Noi	Campuchia	Dat
+Sinh vien 71	SV071	21	Nu	2.6	11	11	Quan tri kinh doanh	Thien chua giao	2023	Da Nang	Viet Nam	Khong Dat
+Sinh vien 72	SV072	22	Nam	2.7	0	12	Cong nghe thong tin	Khong	2020	TP.HCM	Viet Nam	Dat
+Sinh vien 73	SV073	23	Nu	2.8	1	13	Ke toan	Phat giao	2021	Ha Noi	Viet Nam	Dat
+Sinh vien 74	SV074	24	Nam	2.9	2	14	Quan tri kinh doanh	Thien chua giao	2022	Da Nang	Viet Nam	Dat
+Sinh vien 75	SV075	20	Nu	3.0	3	15	Cong nghe thong tin	Thien chua giao	2023	TP.HCM	Campuchia	Dat
+Sinh vien 76	SV076	21	Nam	3.1	4	16	Ke toan	Khong	2020	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 77	SV077	22	Nu	3.2	5	17	Quan tri kinh doanh	Phat giao	2021	Da Nang	Viet Nam	Khong Dat
+Sinh vien 78	SV078	23	Nam	3.3	6	18	Cong nghe thong tin	Thien chua giao	2022	TP.HCM	Viet Nam	Khong Dat
+Sinh vien 79	SV079	24	Nu	3.4	7	19	Ke toan	Thien chua giao	2023	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 80	SV080	20	Nam	3.5	8	0	Quan tri kinh doanh	Khong	2020	Da Nang	Campuchia	Dat
+Sinh vien 81	SV081	21	Nu	3.6	9	1	Cong nghe thong tin	Phat giao	2021	TP.HCM	Viet Nam	Dat
+Sinh vien 82	SV082	22	Nam	3.7	10	2	Ke toan	Thien chua giao	2022	Ha Noi	Viet Nam	Dat
+Sinh vien 83	SV083	23	Nu	3.8	11	3	Quan tri kinh doanh	Thien chua giao	2023	Da Nang	Viet Nam	Khong Dat
+Sinh vien 84	SV084	24	Nam	3.9	0	4	Cong nghe thong tin	Khong	2020	TP.HCM	Viet Nam	Dat
+Sinh vien 85	SV085	20	Nu	4.0	1	5	Ke toan	Phat giao	2021	Ha Noi	Campuchia	Dat
+Sinh vien 86	SV086	21	Nam	4.1	2	6	Quan tri kinh doanh	Thien chua giao	2022	Da Nang	Viet Nam	Dat
+Sinh vien 87	SV087	22	Nu	4.2	3	7	Cong nghe thong tin	Thien chua giao	2023	TP.HCM	Viet Nam	Dat
+Sinh vien 88	SV088	23	Nam	4.3	4	8	Ke toan	Khong	2020	Ha Noi	Viet Nam	Dat
+Sinh vien 89	SV089	24	Nu	4.4	5	9	Quan tri kinh doanh	Phat giao	2021	Da Nang	Viet Nam	Dat
+Sinh vien 90	SV090	20	Nam	1.5	6	10	Cong nghe thong tin	Thien chua giao	2022	TP.HCM	Campuchia	Khong Dat
+Sinh vien 91	SV091	21	Nu	1.6	7	11	Ke toan	Thien chua giao	2023	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 92	SV092	22	Nam	1.7	8	12	Quan tri kinh doanh	Khong	2020	Da Nang	Viet Nam	Khong Dat
+Sinh vien 93	SV093	23	Nu	1.8	9	13	Cong nghe thong tin	Phat giao	2021	TP.HCM	Viet Nam	Khong Dat
+Sinh vien 94	SV094	24	Nam	1.9	10	14	Ke toan	Thien chua giao	2022	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 95	SV095	20	Nu	2.0	11	15	Quan tri kinh doanh	Thien chua giao	2023	Da Nang	Campuchia	Khong Dat
+Sinh vien 96	SV096	21	Nam	2.1	0	16	Cong nghe thong tin	Khong	2020	TP.HCM	Viet Nam	Khong Dat
+Sinh vien 97	SV097	22	Nu	2.2	1	17	Ke toan	Phat giao	2021	Ha Noi	Viet Nam	Khong Dat
+Sinh vien 98	SV098	23	Nam	2.3	2	18	Quan tri kinh doanh	Thien chua giao	2022	Da Nang	Viet Nam	Khong Dat
+Sinh vien 99	SV099	24	Nu	2.4	3	19	Cong nghe thong tin	Thien chua giao	2023	TP.HCM	Viet Nam	Khong Dat
+Sinh vien 100	SV100	20	Nam	2.5	4	0	Ke toan	Khong	2020	Ha Noi	Campuchia	Dat
